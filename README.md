@@ -10,14 +10,13 @@ verification loops, quality drifts and risk rises.
 
 | File | What it does |
 |------|-------------|
-| .agents/skills/SKILL.md | Orchestrator and routing logic |
-| .agents/skills/remote-operator-setup.md | Standard setup for stable local and remote AI operation. |
-| .agents/skills/parallel-session-orchestrator.md | Runs multi-session execution lanes with role separation. |
-| .agents/skills/safe-permissions-policy.md | Enforces permission mode policy by environment (read, write, bash). |
-| .agents/skills/mcp-integration-patterns.md | Defines safe MCP server patterns for GTM systems, handling APIs. |
-| .agents/skills/verification-loop-enforcer.md | Applies deterministic verification loops before output handoff. |
-| .agents/skills/gtm-strategy-foundation-prompt.md | Generates a concrete 90-day GTM foundation plan from inputs. |
-| ECOSYSTEM.md | Cross-repo connectivity map |
+| `.agents/skills/SKILL.md` | Orchestrator and routing logic |
+| `.agents/skills/remote-operator-setup.md` | Standard setup for stable local and remote AI operation. |
+| `.agents/skills/parallel-session-orchestrator.md` | Runs multi-session execution lanes with role separation. |
+| `.agents/skills/safe-permissions-policy.md` | Enforces permission mode policy by environment (read, write, bash). |
+| `.agents/skills/mcp-integration-patterns.md` | Defines safe MCP server patterns for GTM systems, handling APIs. |
+| `.agents/skills/verification-loop-enforcer.md` | Applies deterministic verification loops before output handoff. |
+| `.agents/skills/gtm-strategy-foundation-prompt.md` | Generates a concrete 90-day GTM foundation plan from inputs. |
 
 ## Prerequisites
 
@@ -83,5 +82,6 @@ If this saves you time, star the repo and follow
 [Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
 Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+
 
 
